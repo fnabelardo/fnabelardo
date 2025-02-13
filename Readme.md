@@ -82,7 +82,7 @@ Passionate about development of best practices and design patterns. Enthusiastic
 ## 🔗 Links
 
 [//]: # ([![portfolio]&#40;https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=netlify&logoColor=white&#41;]&#40;https://#/&#41;)
-[//]: # ([![resume]&#40;https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white&#41;]&#40;https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e&#41;)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://fnabelardo.github.io/my_resume/)
 [![linked-in](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/fnabelardo/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fnabelardo@gmail.com)
 [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Felix-Abelardo-Santana?ev=hdr_xprf)
