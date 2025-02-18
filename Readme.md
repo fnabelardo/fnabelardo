@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am **Felix N. Abelardo Santana**, a **Senior Software Developer** (specializing in **Ruby on Rails**, **Java**, **Python**, **.NET Framework** and **.NET Core**). I am a **Computer Science Engineering**.
+🎓 I am **Felix N. Abelardo Santana**, a **Senior Software Developer** (specializing in **Ruby on Rails**, **Java**, **Python**, **.NET Framework** and **.NET Core**). 
 
-Passionate about development of best practices and design patterns. Enthusiastic about collaborating and sharing knowledge with a team to achieve common goals. Advocates for the development of reusable subsystems. Author of several professional publications
+I am a **Computer Science Engineering** passionate about development of best practices and design patterns. Enthusiastic about collaborating and sharing knowledge with a team to achieve common goals. Advocates for the development of reusable subsystems. Author of several professional publications
 
 ## 🛠️ Skills
 
